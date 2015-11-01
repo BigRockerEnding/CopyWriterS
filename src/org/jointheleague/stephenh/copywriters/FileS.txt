@@ -1,0 +1,3 @@
+Hello! This is my amazing FileS!
+
+//Copyright Stephen Harris, 2015
